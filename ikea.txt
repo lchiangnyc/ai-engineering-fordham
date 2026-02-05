@@ -1,0 +1,25 @@
+<button type="button" role="tab" aria-selected="true" class="hnf-megamenu__top-categories__item hnf-megamenu__top-categories__item--selected">Now at IKEA</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+
+Storage &amp; organization</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Sofas &amp; armchairs</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Beds &amp; mattresses</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Kitchen, appliances &amp; supplies</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Tables &amp; chairs</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Kitchenware &amp; tableware</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Home decor &amp; accessories</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Lighting</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Baby &amp; kids</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Desks &amp; desk chairs</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Rugs &amp; home textiles</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Storage containers, organizers &amp; baskets</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Bathroom: furniture, supplies &amp; more</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Outdoor</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Window treatments &amp; coverings</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Plants &amp; planters</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Laundry &amp; cleaning</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Home electronics</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+IKEA Food &amp; Swedish restaurant</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Pet accessories</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Smart home</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Home improvement</button><button type="button" role="tab" aria-selected="false" class="hnf-megamenu__top-categories__item ">
+Winter holiday shop</button>
