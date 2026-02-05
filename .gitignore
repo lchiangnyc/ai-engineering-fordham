@@ -6,6 +6,11 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+homework-2.ipynb
+
+# Ancillary directories
+/temp
+/data
 
 # Environment / secrets
 .env
