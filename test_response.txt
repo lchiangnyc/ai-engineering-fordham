@@ -1,0 +1,1135 @@
+ModelResponse(id='chatcmpl-DLhcu5jz4Yebru4TQT7Stokc6Yucl', created=1774064960, model='gpt-5.4-nano-2026-03-17', object='chat.completion', system_fingerprint=None, choices=[Choices(finish_reason='stop', index=0, message=Message(content='The file appears to be a photograph taken outdoors in a park on a sunny day. In the foreground, a golden-brown dog (medium-to-large, fluffy coat, floppy ears) is running toward the camera while playing with a bright yellow tennis ball clenched in its mouth. Sunlight highlights the dog’s fur, and small bits of grass/debris are kicked up around its paws.\n\nIn the background, the scene is softly blurred: green trees and a lawn stretch out, with a few people standing or walking at a distance near pathways and a fence or building edge. The overall image has a lively, action-focused feel, with shallow depth of field that keeps the dog sharp and the background indistinct.', role='assistant', tool_calls=None, function_call=None, provider_specific_fields={'refusal': None}, annotations=[]), provider_specific_fields={})], usage=Usage(completion_tokens=145, prompt_tokens=1241, total_tokens=1386, completion_tokens_details=CompletionTokensDetailsWrapper(accepted_prediction_tokens=0, audio_tokens=0, reasoning_tokens=0, rejected_prediction_tokens=0, text_tokens=None, image_tokens=None), prompt_tokens_details=PromptTokensDetailsWrapper(audio_tokens=0, cached_tokens=0, text_tokens=None, image_tokens=None)), service_tier='default')
+
+The image shows a sunny outdoor scene in what looks like a park or dog exercise area. In the foreground, a golden-brown, medium-sized dog with floppy ears is running toward the camera, mouth open and tongue out, holding a bright green tennis ball in its mouth.  
+
+As it moves, small bits of grass and dirt are flying up, suggesting it’s been sprinting or chasing. The background is softly blurred: trees with green foliage, a lawn, and a few people standing or walking near a fence, giving a shallow depth-of-field “action photo” look.{
+  "breed": "Golden Retriever mix (appears likely)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green space with trees; dog running/jumping on grass with people in the distant background",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful, energetic, friendly (open mouth, alert posture)",
+  "visual_style": "Photorealistic outdoor action shot with shallow depth of field and sunlit bokeh",
+  "botanicals": "Large leafy trees"
+}{
+  "breed": "Golden Retriever mix (appears)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and a softly blurred background of people/activities",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, running toward the camera with an open-mouth pant",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting and motion/sparkle in the air",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever (likely mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/field with green grass and large trees; people and dog blurred in background",
+  "accessories": [
+    "Tennis ball toy (yellow) in mouth"
+  ],
+  "mood": "Happy/excited, running forward with open mouth",
+  "visual_style": "Photorealistic outdoor action shot with shallow depth of field (bokeh) and sunlit particles/specks",
+  "botanicals": "Trees and green foliage in the background"
+}{
+  "breed": "Golden Retriever (or Golden-mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball",
+    "Dog collar (subtle/partially visible)"
+  ],
+  "mood": "Playful and energetic, mid-run with an open mouth and bright, engaged expression",
+  "visual_style": "Photorealistic, shallow depth-of-field with sunlit bokeh; action/freeze-frame look",
+  "botanicals": "Trees with green foliage"
+}{
+  "breed": "Golden Retriever (or Golden Retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees and a walkway; action shot with people and another dog blurred in the background",
+  "accessories": [
+    "tennis ball",
+    "collar (subtle/possibly)"
+  ],
+  "mood": "Playful and energetic (running toward the camera, mouth open, excited expression)",
+  "visual_style": "Photorealistic, shallow depth of field with bokeh highlights and bright natural lighting; action freeze with motion sparkle",
+  "botanicals": "Trees/green foliage in the background"
+}{
+  "breed": "Golden Retriever mix (golden, fluffy coat)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees; action shot in bright sunlight",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Happy and energetic (running/jogging posture with open-mouthed expression)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/pollen-like particles",
+  "botanicals": "Trees and green grass"
+}{
+  "breed": "Golden Retriever mix (appears Golden Retriever-type)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park with trees and a paved path in the background; dog running on green grass",
+  "accessories": [
+    "tennis ball (in mouth)"
+  ],
+  "mood": "Happy/excited, mid-run with tongue out and an alert, joyful expression",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural light and visible dust/spray particles",
+  "botanicals": "Trees in a park (green foliage)"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park or grassy field with trees and people/dog in the blurred background",
+  "accessories": [
+    "Yellow tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, mid-run with relaxed open mouth and engaged gaze",
+  "visual_style": "Naturalistic outdoor photo with shallow depth of field (bokeh) and high-resolution clarity",
+  "botanicals": "Green lawn and leafy tree foliage"
+}{
+  "breed": "Golden Retriever (mixed appearance)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/garden lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful and energetic; mouth open with the ball being carried",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural light and motion/flying specks in the background",
+  "botanicals": "Trees and green grass/foliage"
+}{
+  "breed": "Golden Retriever (or Golden-mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful and energetic, running toward the camera with an open mouth and relaxed eyes",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting and visible dust/spray in the air",
+  "botanicals": "Trees with green foliage"
+}{
+  "breed": "Golden Retriever (or Golden mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/grass field with trees and people in the distant background; dog running toward the camera",
+  "accessories": [
+    "Yellow tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running, relaxed open-mouth expression)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting and motion/spark-like particles",
+  "botanicals": "Large green trees and leafy foliage"
+}{
+  "breed": "Golden Retriever (or Golden Retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball",
+    "Playing/holding a ball in the mouth"
+  ],
+  "mood": "Playful and energetic (running toward camera with open mouth)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural light and visible flying dust/specks",
+  "botanicals": "Green lawn and leafy park trees"
+}{
+  "breed": "Golden Retriever (or Golden-type mixed breed)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball/toy held in mouth"
+  ],
+  "mood": "Playful and energetic (running toward camera, mouth open with ball)",
+  "visual_style": "Photorealistic action shot with shallow depth of field and bright natural lighting",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever mix (golden, medium-large, shaggy coat)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/field with trees and people/dogs blurred in the background; grass lawn with flying dust/particles",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful and excited; running toward the camera with mouth open and tongue visible",
+  "visual_style": "Photorealistic, shallow depth of field with bokeh background and dynamic mid-run capture",
+  "botanicals": "Green park trees with leafy canopy"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball (being held in mouth)"
+  ],
+  "mood": "Playful and energetic, mid-run with an open mouth and happy expression",
+  "visual_style": "Photorealistic action shot with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green grass and leafy trees"
+}{
+  "breed": "Golden Retriever (mixed/looks like)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/grassy field with trees and a paved walkway in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running/jumping forward, mouth open, relaxed face)",
+  "visual_style": "Photorealistic action shot with shallow depth of field and sunlit bokeh",
+  "botanicals": "Trees and green grass"
+}{
+  "breed": "Golden Retriever (likely)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park with grass; trees and a blurred walking path/people in the background",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful and energetic (running toward the camera, open mouth, happy expression)",
+  "visual_style": "Photorealistic with shallow depth of field and bright natural lighting",
+  "botanicals": "Tree leaves/green foliage"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful and energetic (running toward camera, mouth open)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting and bokeh",
+  "botanicals": "Green trees/leaves"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees and people blurred in the background",
+  "accessories": [
+    "tennis ball (in mouth)"
+  ],
+  "mood": "Playful and energetic, mid-run with an open mouth and happy expression",
+  "visual_style": "Natural daylight sports/action photography with shallow depth of field and bokeh background",
+  "botanicals": "Green trees/park foliage"
+}{
+  "breed": "Golden Retriever (mixed appearance)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball (yellow, in mouth)"
+  ],
+  "mood": "Playful and excited; running toward the camera with an open, happy expression",
+  "visual_style": "Photorealistic, shallow depth of field with bokeh background; bright natural light and motion in mid-run",
+  "botanicals": "Trees/leaves in the background"
+}{
+  "breed": "Golden Retriever (or Golden-mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/grassy field with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball",
+    "Ball being carried/held in mouth"
+  ],
+  "mood": "Playful and energetic, mid-run with an open mouth and friendly expression",
+  "visual_style": "Photorealistic, sunlit action shot with shallow depth of field and visible particles/dust in the air",
+  "botanicals": null
+}{
+  "breed": "Golden Retriever (or Golden-mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park or backyard lawn with trees and people blurred in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful/excited—running forward with an open mouth and happy expression",
+  "visual_style": "Photorealistic action shot with shallow depth of field and sunlit bokeh",
+  "botanicals": "Trees/green foliage"
+}{
+  "breed": "Golden Retriever mix",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and a blurred walkway in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running toward the camera, mouth open with the ball)",
+  "visual_style": "Photorealistic outdoor action shot, shallow depth of field with bright natural light",
+  "botanicals": "Green trees/foliage"
+}{
+  "breed": "Golden Retriever (or Golden Retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/grass field with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful and excited (running toward camera, mouth open with ball visible)",
+  "visual_style": "Photographic, shallow depth of field with bright natural lighting and motion/particle sparkle",
+  "botanicals": "Trees with green foliage; lawn/grass"
+}{
+  "breed": "Golden Retriever (mixed look)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/field with grass and trees; shallow depth of field with people/objects blurred in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful, energetic and friendly (happy expression; running toward the camera)",
+  "visual_style": "Photorealistic, bright natural light, shallow depth-of-field with bokeh and captured motion/sparkle in the air",
+  "botanicals": "Trees and green grass"
+}{
+  "breed": "Golden Retriever (or golden retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees and a softly blurred background",
+  "accessories": [
+    "Tennis ball (held in mouth)"
+  ],
+  "mood": "Playful, energetic, with an open-mouth happy expression while running/approaching",
+  "visual_style": "Naturalistic photography with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green lawn and broadleaf park trees"
+}{
+  "breed": "Golden Retriever (mix likely)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/field with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running toward camera with mouth open)",
+  "visual_style": "Natural daylight action photo with shallow depth of field/bokeh",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever (or Golden mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/lawn with trees and a paved path in the background; sunny day with visible floating dust/grass particles",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Excited, playful, mid-run/play stance with mouth open and tongue visible",
+  "visual_style": "Realistic outdoor sports/action photography with shallow depth of field (bokeh background)",
+  "botanicals": "Green trees/foliage"
+}{
+  "breed": "Golden Retriever (or similar retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/garden lawn with trees and a softly blurred background; visible people in the distance",
+  "accessories": [
+    "Tennis ball (yellow) in mouth"
+  ],
+  "mood": "Playful/excited—running forward with an open mouth and alert, friendly expression",
+  "visual_style": "Natural daylight with shallow depth of field; crisp subject with bokeh background and motion/airborne dust-like particles",
+  "botanicals": "Trees and green lawn/foliage"
+}{
+  "breed": "Golden Retriever (or golden-type retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green lawn with trees and a paved path in the background; dog running toward the camera",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running with open mouth and happy expression)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting and motion/splash of grass/dust",
+  "botanicals": "Trees and green grass in a park setting"
+}{
+  "breed": "Golden Retriever mix",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green lawn with trees; background people and a pathway out of focus",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running toward the camera, mouth open, happy expression)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural light and visible dust/sparkle bokeh",
+  "botanicals": "Large leafy green trees in the background"
+}{
+  "breed": "Golden Retriever (or Golden-mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green field with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, running/walking forward with open mouth",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh/particles in the air",
+  "botanicals": "Trees and green grass"
+}{
+  "breed": "Golden Retriever (mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park with green grass and tall trees; shallow depth of field",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful/excited, mid-run with open mouth and bright eyes",
+  "visual_style": "Photorealistic action shot with bokeh background and sunlit sparkle",
+  "botanicals": "Trees/leaves in the background"
+}{
+  "breed": "Golden Retriever mix (golden/medium-long fur)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/lawn with trees and a softly blurred background",
+  "accessories": [
+    "Yellow tennis ball held in mouth"
+  ],
+  "mood": "Playful, energetic, running toward the camera with an open-mouthed pant",
+  "visual_style": "Photorealistic, shallow depth of field (bokeh background) with sunlit sparkles/particles",
+  "botanicals": "Trees with green foliage"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green lawn with trees; action in mid-play",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic; running toward the camera with an open, happy expression",
+  "visual_style": "Realistic wildlife/animal action photography with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green trees/foliage"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park or grassy field with trees and a path/track in the background",
+  "accessories": [
+    "tennis ball",
+    "collar (appears to be light-colored/indistinct)"
+  ],
+  "mood": "Happy, energetic, playful (running toward camera with tongue out)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/flying debris",
+  "botanicals": "Trees/green foliage in the background"
+}{
+  "breed": "Golden Retriever (mixed/uncertain)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees and a paved path in the background",
+  "accessories": [
+    "Yellow tennis ball held in mouth"
+  ],
+  "mood": "Playful and energetic, mid-run with mouth slightly open",
+  "visual_style": "Naturalistic, high-resolution outdoor sports/action photo with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever (mixed/typical appearance)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees; likely a sunny day and an active play moment",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and excited (running toward camera with an open mouth, tongue visible)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/sparkle-like particles in the air",
+  "botanicals": "Trees and green grass in a park"
+}{
+  "breed": "Golden Retriever (mixed/possibly)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and out-of-focus people and a paved path in the background",
+  "accessories": [
+    "Tennis ball",
+    "Ball in mouth"
+  ],
+  "mood": "Playful and energetic (running toward the camera with mouth open and ball visible)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting and motion/action feel",
+  "botanicals": "Green trees/leaves in the park"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and a paved path in the background",
+  "accessories": [
+    "tennis ball in mouth",
+    "no visible collar or leash"
+  ],
+  "mood": "Playful and energetic (running toward the camera with an open mouth, ball visible)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/floating grass particles",
+  "botanicals": "Green trees and leafy branches"
+}{
+  "breed": "Golden Retriever mix (appears golden retriever-like)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/field with trees and a paved path in the background",
+  "accessories": [
+    "tennis ball/toy in mouth",
+    "playful stance (running toward camera)"
+  ],
+  "mood": "Playful and energetic; friendly expression with mouth open and eyes forward",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and dynamic motion (action shot)",
+  "botanicals": "Trees with green foliage"
+}{
+  "breed": "Golden Retriever mix (golden-colored, medium-to-long coat)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/lawn with trees in the background; outdoor play scene",
+  "accessories": [
+    "Tennis ball toy in mouth"
+  ],
+  "mood": "Playful and energetic (running toward camera, mouth open with relaxed, happy expression)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/splash-like grass particles",
+  "botanicals": "Trees/leaves in a park"
+}{
+  "breed": "Golden Retriever (or Golden-type mixed)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/lawn with trees and a path in the background",
+  "accessories": [
+    "tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running forward, mouth open, relaxed expression)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and dust/spray particles in the air",
+  "botanicals": "Trees and green foliage"
+}{
+  "breed": "Golden Retriever (mixed/very similar)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/lawn with trees and a walkway; action scene with people and a dog blurred in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Happy/excited, mid-run with mouth open and tongue visible",
+  "visual_style": "Naturalistic action photo with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green trees and lawn grass"
+}{
+  "breed": "Golden Retriever (or Golden-mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park with grassy field and large trees; people/dogs are blurred in the background",
+  "accessories": [
+    "tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running toward camera with mouth open)",
+  "visual_style": "Photorealistic action shot with shallow depth of field and bright natural lighting",
+  "botanicals": "Tree foliage/green canopy in the background"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/grass field with trees and a blurred path; outdoor play scene",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic; running with an open, happy expression",
+  "visual_style": "Naturalistic photo with shallow depth of field (bokeh), warm sunlight, high detail",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever mix",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/field with trees and people in the distant background",
+  "accessories": [
+    "Yellow tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running toward camera, open mouth, focused gaze)",
+  "visual_style": "Photorealistic, shallow depth of field with bokeh and dust/spark particles in sunlight",
+  "botanicals": "Trees and green grass"
+}{
+  "breed": "Golden Retriever (or similar retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/grassy field with trees and people in the blurry background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful, energetic running/jogging with an open-mouth, happy expression",
+  "visual_style": "Natural daylight sports/action photo with shallow depth of field and bokeh",
+  "botanicals": "Green trees/leaves"
+}{
+  "breed": "Golden Retriever mix (golden, medium-to-long coat)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park or grassy field with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball (yellow) in mouth"
+  ],
+  "mood": "Playful and energetic, focused on the ball with an open mouth",
+  "visual_style": "Photographic, shallow depth of field with bright natural lighting and visible airborne dust/sparkles",
+  "botanicals": "Green trees/leafy canopy in the background"
+}{
+  "breed": "Golden Retriever",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park with grass, trees, and softly blurred people in the background",
+  "accessories": [
+    "Tennis ball (yellow) held in mouth"
+  ],
+  "mood": "Happy/excited, mid-run with an open mouth and playful expression",
+  "visual_style": "Photorealistic, shallow depth of field (bokeh) with natural daylight and visible airborne specks",
+  "botanicals": "Trees/leaves in the background"
+}{
+  "breed": "Golden Retriever (or Golden Retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/grass field with trees and a walkway/paths in the background",
+  "accessories": [
+    "Tennis ball (yellow) in mouth"
+  ],
+  "mood": "Happy/excited, running toward the camera with an open-mouthed smile",
+  "visual_style": "Naturalistic outdoor photo with shallow depth of field (bokeh) and bright, warm lighting",
+  "botanicals": "Trees/leaves in the background (park landscaping)"
+}{
+  "breed": "Golden Retriever (golden mix appearance)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees and people blurred in the background",
+  "accessories": [
+    "Tennis ball/toy in mouth"
+  ],
+  "mood": "Playful, energetic (running toward the camera with mouth open and tail up)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and action freeze",
+  "botanicals": "Trees and green grass in a sunny park"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and a blurred walkway/people in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running toward the camera, mouth open, alert expression)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting (action shot)",
+  "botanicals": "Green trees/foliage in background"
+}{
+  "breed": "Golden Retriever (mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/grass field with trees and people in the distant background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Happy/excited, mid-run with tongue out and playful expression",
+  "visual_style": "Photographic, shallow depth of field with sunlit bokeh and action freeze",
+  "botanicals": "Trees/leaves in the background"
+}{
+  "breed": "Golden Retriever mix (appears golden, medium-long coat)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/lawn with trees and people blurred in the background",
+  "accessories": [
+    "tennis ball in mouth"
+  ],
+  "mood": "Playful and eager (running/jumping posture, open mouth, focused on moving forward)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting and visible dust/sparkle bokeh",
+  "botanicals": "Green trees and leafy canopy"
+}{
+  "breed": "Golden Retriever (or golden-mixed retriever)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/lawn during sunny day; trees and a paved path in the background",
+  "accessories": [
+    "Yellow tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running toward camera, open mouth, lively expression)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion-like action",
+  "botanicals": "Green grass and leafy trees"
+}{
+  "breed": "Golden Retriever mix (golden, medium/large, floppy-eared)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees and a softly blurred walkway/buildings in the background",
+  "accessories": [
+    "Yellow tennis ball in mouth"
+  ],
+  "mood": "Happy, energetic, mid-run/play with open mouth and bright eyes",
+  "visual_style": "Natural daylight photo with shallow depth of field (bokeh) and slight motion/freeze effect",
+  "botanicals": "Trees with green foliage"
+}{
+  "breed": "Golden Retriever mix (golden, fluffy coat)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball (yellow) held in mouth"
+  ],
+  "mood": "Playful and excited; running toward the camera with an open-mouthed, happy expression",
+  "visual_style": "Natural daylight photo with shallow depth of field and high color saturation",
+  "botanicals": "Trees with green foliage"
+}{
+  "breed": "Golden Retriever (or golden retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/lawn with trees and a path; bright sunny day with people and a dog in the distant background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, mid-run with mouth open and focused expression",
+  "visual_style": "Photorealistic, shallow depth of field with bokeh; action shot with motion/flying grass/dust particles",
+  "botanicals": "Large leafy trees (green canopy)"
+}{
+  "breed": "Golden Retriever (mix possible)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/field with trees and a grassy lawn; other people and dogs are blurred in the background",
+  "accessories": [
+    "Green tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, trotting toward the camera with an open-mouthed expression",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/sparkle of airborne debris",
+  "botanicals": "Tree leaves/branches in the background"
+}{
+  "breed": "Golden Retriever (mixed/appears golden retriever)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green with trees and a walkway in the background; dog is running on the grass",
+  "accessories": [
+    "Tennis ball in mouth (yellow)"
+  ],
+  "mood": "Playful and energetic (running toward camera, mouth open, relaxed expression)",
+  "visual_style": "Natural-light outdoor sports photo with shallow depth of field and background bokeh",
+  "botanicals": "Green-leafed trees, grassy park lawn"
+}{
+  "breed": "Golden Retriever (or golden mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/grass field with trees and a blurred walkway/people in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, mid-run with tongue out and an alert, happy expression",
+  "visual_style": "Photorealistic outdoor sports/action shot with shallow depth of field and bokeh",
+  "botanicals": "Trees with green foliage"
+}{
+  "breed": "Golden Retriever (or similar retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees in the background; action shot during play",
+  "accessories": [
+    "Bright yellow tennis ball in mouth"
+  ],
+  "mood": "Playful, energetic, and happy (mouth open, running toward camera)",
+  "visual_style": "Photorealistic sports/action photography with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green trees/foliage"
+}{
+  "breed": "Golden Retriever (likely mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park with grass and trees; people and a dog appear blurred in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful, energetic, mid-run with an open mouth and bright expression",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/splash of grass/dust particles",
+  "botanicals": "Trees and green grass in a park setting"
+}{
+  "breed": "Golden Retriever mix (golden/tan coat)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park with green grass, trees, and people in the distant background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and excited (running forward with open mouth and tongue visible)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh/dust specks in the air",
+  "botanicals": "Trees and leafy branches"
+}{
+  "breed": "Golden Retriever (mix likely)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green lawn with trees and a paved walkway in the background",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful and energetic",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/particle specks in the air",
+  "botanicals": "Trees with leafy green canopy"
+}{
+  "breed": "Golden Retriever mix",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park with grass and large trees; action shot with people and another dog blurred in the background",
+  "accessories": [
+    "Tennis ball (yellow) in mouth"
+  ],
+  "mood": "Playful and energetic",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural sunlight and motion/spark-like dust in the air",
+  "botanicals": "Green park trees and foliage"
+}{
+  "breed": "Golden Retriever (or golden-colored mixed retriever)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/field with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball",
+    "Collar (subtle/possibly)"
+  ],
+  "mood": "Playful and energetic, running toward the camera with an open-mouth, happy expression",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural light",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever mix (appears golden/light coat with droopy ears)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/grass field with trees and a paved walkway in the background",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful and excited (running toward camera, open mouth with ball)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting",
+  "botanicals": "Green trees/park foliage"
+}{
+  "breed": "Golden Retriever (likely)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park on a sunny day with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful/excited, mid-run with mouth open and engaged expression",
+  "visual_style": "Photorealistic action shot with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green field with trees and a walking path in the background",
+  "accessories": [
+    "Tennis ball/toy in mouth"
+  ],
+  "mood": "Playful and energetic (running toward the camera with an open, happy expression)",
+  "visual_style": "Natural-light outdoor action photo with shallow depth of field and dust/debris sparkle",
+  "botanicals": "Trees/leaves in a landscaped park"
+}{
+  "breed": "Golden Retriever (appears similar)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees and a walkway in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful, energetic, slightly panting/excited expression while running forward",
+  "visual_style": "Photorealistic action shot with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green trees/foliage in the background"
+}{
+  "breed": "Golden Retriever (or golden-colored retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/field with trees and people in the distant background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, running toward the camera with an open mouth",
+  "visual_style": "Photorealistic, shallow depth of field (bokeh), action shot with sunlit dust/sparkle particles",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever mix",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park with green grass and trees; open walkway/background with people out of focus",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, mid-run with an open mouth and happy expression",
+  "visual_style": "Natural daylight, shallow depth of field (bokeh), crisp subject with motion/sprinkles in the air",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever (or Golden-mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green lawn with trees and a blurred walking/background area",
+  "accessories": [
+    "Tennis ball (yellow) held in mouth"
+  ],
+  "mood": "Playful, energetic, mid-run with mouth open and attentive expression",
+  "visual_style": "Natural daylight, shallow depth of field, sports-action candid photo",
+  "botanicals": "Trees/green foliage"
+}{
+  "breed": "Golden Retriever mix (appears similar to a golden retriever)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/field with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful, energetic running with an open-mouthed smile and relaxed body",
+  "visual_style": "Natural daylight photo with shallow depth of field (background bokeh) and visible action/floating particles",
+  "botanicals": "Green-leaf trees and grass"
+}{
+  "breed": "Golden Retriever (mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/playground with trees and green grass; open lawn with shallow depth of field",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and excited (running toward camera with mouth open, tongue visible)",
+  "visual_style": "Photorealistic, action shot with bokeh background and sunlit highlights",
+  "botanicals": "Trees/green foliage in the background"
+}{
+  "breed": "Golden Retriever (mixed/appears likely)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park or field with green grass and trees; people and buildings softly blurred in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, mid-run with an open mouth and bright expression",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit, warm bokeh; action shot with motion/sparkle in the air",
+  "botanicals": "Green trees with sunlit leaves"
+}{
+  "breed": "Golden Retriever mix",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and people blurred in the background",
+  "accessories": [
+    "tennis ball",
+    "collar (not clearly visible, assumed)"
+  ],
+  "mood": "Happy and energetic while running toward the camera, mouth open and tongue out",
+  "visual_style": "Photorealistic with shallow depth of field; action shot capturing motion and light particles/specks",
+  "botanicals": "Green-leaf trees"
+}{
+  "breed": "Golden Retriever mix (golden/tan, medium-long fur)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park or grassy field with trees; dog is running on the lawn",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful/excited (open mouth, forward-running posture, alert eyes)",
+  "visual_style": "Bright natural-light action photo with shallow depth of field and bokeh",
+  "botanicals": "Green trees/leaves in the background"
+}{
+  "breed": "Golden Retriever (mix likely)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/green lawn with trees and people blurred in the background",
+  "accessories": [
+    "Tennis ball (yellow) in mouth"
+  ],
+  "mood": "Playful and excited, running toward the camera with a visible happy expression",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/flying grass particles",
+  "botanicals": "Trees and green grass (park landscaping)"
+}{
+  "breed": "Golden Retriever (or Golden mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park lawn with trees and a paved path/area in the background; action captured mid-run",
+  "accessories": [
+    "Tennis ball held in mouth"
+  ],
+  "mood": "Playful and energetic (running toward camera with an open, happy mouth)",
+  "visual_style": "Photorealistic action shot with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green leafy trees and sunlit grass"
+}{
+  "breed": "Golden Retriever (possibly mixed)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/field with trees; dog running toward the camera",
+  "accessories": [
+    "tennis ball in mouth"
+  ],
+  "mood": "Playful, energetic, friendly (running with ball)",
+  "visual_style": "Photorealistic, shallow depth of field with motion/floating debris in the air",
+  "botanicals": "Green trees and leafy canopy; lawn grass"
+}{
+  "breed": "Golden Retriever (or golden retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/grassy field with trees and a path in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic, running toward the camera with an open mouth",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/flying grass particles",
+  "botanicals": "Large leafy trees and green grass"
+}{
+  "breed": "Golden Retriever (or similar long-haired retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/grassy field with trees; outdoor play area",
+  "accessories": [
+    "Yellow tennis ball in mouth"
+  ],
+  "mood": "Excited, playful (open mouth with ball, forward-running posture)",
+  "visual_style": "Photorealistic sports/action shot with shallow depth of field and floating grass/spray bokeh",
+  "botanicals": "Green leafy trees in the background"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/grass field with trees and a slightly blurred background walkway and people/dogs",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful, excited expression with open mouth and forward running posture",
+  "visual_style": "Photorealistic, shallow depth of field with bokeh and sunlit action shot",
+  "botanicals": "Trees/green foliage"
+}{
+  "breed": "Golden Retriever (appears similar; exact breed uncertain)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park or grassy yard with trees and people blurred in the background; dog is mid-run/playing on the lawn with visible airborne dust/sparkles",
+  "accessories": [
+    "Tennis ball (yellow-green) held in mouth"
+  ],
+  "mood": "Playful, energetic, and eager (running toward the camera with relaxed, open-mouth expression)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and action motion",
+  "botanicals": "Trees and green grass in a park-like setting"
+}{
+  "breed": "Golden Retriever (or Golden-mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/field with trees; shallow depth of field and people/park path blurred in background",
+  "accessories": [
+    "Yellow tennis ball in mouth"
+  ],
+  "mood": "Playful, excited expression while running/charging forward",
+  "visual_style": "Photorealistic, bright natural light with cinematic bokeh (shallow depth of field, action shot)",
+  "botanicals": "Green trees and grass"
+}{
+  "breed": "Golden Retriever mix (golden-colored retriever type)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Outdoor park/field on a sunny day with trees and a blurred path and people in the background",
+  "accessories": [
+    "tennis ball",
+    "collar (appears present)"
+  ],
+  "mood": "Playful and energetic (running toward the camera with mouth slightly open)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting and visible particles/sparkle in the air",
+  "botanicals": "Broadleaf trees/park greenery"
+}{
+  "breed": "Golden Retriever (or Golden-mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green lawn with trees and a blurred walkway/people in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and eager (running toward camera, mouth open with a happy expression)",
+  "visual_style": "Photorealistic action shot with shallow depth of field and bright natural lighting",
+  "botanicals": "Trees/green foliage"
+}{
+  "breed": "Golden Retriever (golden mix possible)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park / grassy lawn with trees and a path in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic",
+  "visual_style": "Natural daylight photography with shallow depth of field (bokeh), candid action shot",
+  "botanicals": "Trees and green lawn/foliage"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park with grass and trees; action shot with other people/dogs blurred in the background",
+  "accessories": [
+    "Yellow tennis ball in mouth"
+  ],
+  "mood": "Playful and excited, running toward the camera with an open-mouthed pant and bright eyes",
+  "visual_style": "Photographic, shallow depth of field with bokeh and motion/sparkle-like particles in the air",
+  "botanicals": "Trees and green foliage"
+}{
+  "breed": "Golden Retriever (mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and pedestrians in the background",
+  "accessories": [
+    "Tennis ball in mouth (green yellow)"
+  ],
+  "mood": "Playful and energetic, running toward the camera with an open mouth and happy expression",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural lighting and visible dust/pollen in the air",
+  "botanicals": "Trees/green foliage in the background"
+}{
+  "breed": "Golden Retriever (or Golden Retriever mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/playground lawn with trees and other people/dogs blurred in the background",
+  "accessories": [
+    "Tennis ball (held in mouth)"
+  ],
+  "mood": "Playful and energetic, running with an open-mouth pant and focused expression",
+  "visual_style": "Photorealistic, shallow depth of field with crisp subject and bokeh background; dynamic action shot",
+  "botanicals": "Broadleaf trees and green grass"
+}{
+  "breed": "Golden Retriever mix",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and a paved path in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Happy and energetic (running toward the camera, open mouth)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit bokeh and motion/flecks in the air",
+  "botanicals": "Trees and green grass"
+}{
+  "breed": "Golden Retriever (or Golden mix)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park with grassy lawn and trees; action scene with people in the background",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running toward the camera, mouth open with ball visible)",
+  "visual_style": "Photorealistic, shallow depth of field with bright natural light and motion/action feel",
+  "botanicals": "Trees with green foliage"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/green lawn with trees and a softly blurred background",
+  "accessories": [
+    "Tennis ball",
+    "Ball in mouth (or being carried)"
+  ],
+  "mood": "Playful and energetic; mouth open with a friendly, excited expression",
+  "visual_style": "Natural outdoor sports/action photo look with shallow depth of field (bokeh) and bright sun highlights",
+  "botanicals": "Green trees/foliage in the background"
+}{
+  "breed": "Golden Retriever mix (golden/tan medium-large dog)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park or grassy field with trees and a paved path in the background; mid-action throw/play scene",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic; mouth open with a bright, excited expression; forward running posture",
+  "visual_style": "Photorealistic outdoor sports/action shot with shallow depth of field and sunlit bokeh",
+  "botanicals": "Trees with green foliage"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny outdoor park/lawn with trees and people in the background (bokeh)",
+  "accessories": [
+    "Tennis ball in mouth"
+  ],
+  "mood": "Playful and energetic (running forward, open-mouthed pant)",
+  "visual_style": "Photorealistic, shallow depth of field with sunlit highlights and motion/splash of grass/dust particles",
+  "botanicals": "Green grass and leafy trees"
+}{
+  "breed": "Golden Retriever mix (approx.)",
+  "number": 1,
+  "age": "adult",
+  "setting": "Sunny park/green lawn with trees and a path in the background",
+  "accessories": [
+    "Tennis ball (in mouth)"
+  ],
+  "mood": "Playful and energetic (running forward, mouth open, engaged expression)",
+  "visual_style": "Photorealistic, outdoor action shot with shallow depth of field and sunlit bokeh",
+  "botanicals": "Green trees/leaves"
+}
+
+- Subject: A golden retriever (golden-brown coat) jumping in the air.
+- Action: The dog has a bright green tennis ball in its mouth, paws off the ground as if catching or playing fetch.
+- Setting: A sunny park with lush green grass and large trees in the background. A blurred path and people can be seen in the distance.
+- Lighting and mood: Natural daylight creates bright highlights on the fur and a cheerful, energetic mood.
+- Composition: The dog is centered with shallow depth of field, keeping the dog in sharp focus while the background is blurred.
+- Details: A few specks of dust or pollen float around the dog, enhancing the sense of motion.breed='Golden Retriever' number=1 age='adult' setting='sunlit park with mature trees and open grassy field' accessories=['tennis ball'] mood='playful' visual_style='vibrant natural daylight action photo, candid park scene' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight, vibrant colors' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight, vibrant colors' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park on sunny day with trees' accessories=['tennis ball'] mood='playful' visual_style='photorealistic outdoor photography' botanicals='trees and well-kept grass'breed='Golden Retriever' number=1 age='adult' setting='park with lush green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight, vibrant outdoor photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park' accessories=['tennis ball'] mood='joyful' visual_style='photorealistic, natural daylight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Sunlit park with green grass and trees; distant people and pathways' accessories=['tennis ball in mouth'] mood='playful' visual_style='photorealistic; bright daylight; shallow depth of field' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park on a sunny day with green grass and trees' accessories=['tennis ball'] mood='playful, joyful' visual_style='natural daytime photography' botanicals='Tall green trees and well-kept grass in a park'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with trees' accessories=['tennis ball'] mood='playful' visual_style='photorealistic' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunny public park with trees and open grassy field' accessories=['green tennis ball'] mood='playful, energetic' visual_style='natural daylight, vibrant colors, action shot' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park' accessories=['tennis ball'] mood='playful' visual_style='natural daylight photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit city park with open grassy field and trees' accessories=[] mood='joyful' visual_style='natural daylight photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with trees and open grassy field' accessories=['tennis ball'] mood='joyful, energetic' visual_style='natural daylight photography with vibrant colors; shallow depth of field' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with trees and sunlit grassy field' accessories=['tennis ball'] mood='joyful, energetic' visual_style='photorealistic, natural lighting' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='public park with grassy field and trees' accessories=['tennis ball'] mood='playful' visual_style='bright natural photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green lawn and trees' accessories=['tennis ball'] mood='playful' visual_style='photorealistic' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight photography with vibrant colors' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Sunlit park with green grass and tall trees' accessories=['Tennis ball'] mood='playful' visual_style='photorealistic daylight photography' botanicals='Trees and grass in a park'breed='Golden Retriever' number=1 age='adult' setting='Sunlit park with grass and trees; blurred background with people' accessories=['tennis ball'] mood='joyful and energetic' visual_style='photorealistic, natural daylight, vibrant colors' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park' accessories=['tennis ball'] mood='joyful' visual_style='natural daylight, vibrant colors, shallow depth of field' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park' accessories=['tennis ball'] mood='playful' visual_style='sunlit daytime outdoor photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with sunlit grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural photography, vibrant colors' botanicals='Trees'breed='Golden Retriever' number=1 age='adult' setting='Park with trees and a grassy field' accessories=[] mood='playful' visual_style='natural daylight photography with bright, vibrant colors' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with trees and open grassy area' accessories=['tennis ball'] mood='playful' visual_style='natural daylight, vibrant colors' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with trees and grass' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, bright and crisp' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunny city park with grassy lawn and trees' accessories=['tennis ball'] mood='playful and joyful' visual_style='natural color photo, bright daylight, action shot with slight background blur' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='photorealistic; natural daylight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunny park with grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural photography, vibrant daylight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with grassy field and trees, sunny day' accessories=['tennis ball'] mood='playful, joyful' visual_style='photo-realistic, bright daylight' botanicals='grass and trees'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with open grassy field and trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight action shot' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, sunlit outdoor photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park' accessories=['tennis ball'] mood='joyful' visual_style='photorealistic daylight photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green grass and trees; sunny day; blurred figures in the background' accessories=['tennis ball'] mood='playful' visual_style='natural daylight action shot with warm tones' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with lush green grass and tall trees on a sunny day' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, natural daylight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunny park with trees and open grassy field' accessories=['tennis ball'] mood='joyful and energetic' visual_style='photorealistic, bright daylight, natural colors' botanicals='green grass and leafy trees'breed='Golden Retriever' number=1 age='adult' setting='Outdoor park with sunny, grassy field and trees' accessories=['tennis ball'] mood='playful and joyful' visual_style='natural daylight photography' botanicals='trees'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='bright natural photography with warm sunlight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with lush green grass and trees' accessories=['tennis ball'] mood='playful, joyful' visual_style='photorealistic, natural daylight' botanicals='trees'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='photographic, natural daylight' botanicals='trees'breed='Golden Retriever' number=1 age='adult' setting='sunny public park with trees' accessories=['tennis ball'] mood='playful' visual_style='natural color photography' botanicals='trees'breed='Golden Retriever' number=1 age='adult' setting='park' accessories=['tennis ball'] mood='playful' visual_style='photographic, natural daylight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='city park with trees and open grassy field' accessories=['tennis ball'] mood='playful and energetic' visual_style='natural daylight photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit public park with trees and a grassy field' accessories=['tennis ball'] mood='playful' visual_style='photorealistic outdoor photography' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='grassy park with trees' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, bright daylight' botanicals='grass and trees'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='Natural daylight, vibrant color photo with shallow depth of field' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park with lush green grass and trees on a sunny day' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, natural daylight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Public park on a sunny day' accessories=['green tennis ball'] mood='playful' visual_style='natural daylight photography with bright colors and shallow depth of field' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with green grass and trees' accessories=['tennis ball'] mood='playful, joyful' visual_style='natural daylight photograph with shallow depth of field' botanicals='trees, grass'breed='Golden Retriever' number=1 age='adult' setting='outdoor park with green grass and trees' accessories=['tennis ball'] mood='joyful and energetic' visual_style='bright, natural daylight photography with shallow depth of field' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park on a sunny day with lush green grass and trees in the background' accessories=['tennis ball'] mood='joyful, energetic' visual_style='natural daylight action shot with shallow depth of field' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with green grass and trees' accessories=['green tennis ball'] mood='playful' visual_style='natural color photograph' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Open park with grass, trees, sunny day' accessories=['tennis ball'] mood='playful' visual_style='photorealistic daytime photograph' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='Natural, photorealistic' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with trees and open grassy field' accessories=['tennis ball'] mood='playful' visual_style='Natural daylight action photography' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green grass, shade from trees, sunny day' accessories=['tennis ball'] mood='joyful, energetic' visual_style='natural color, bright daylight, crisp focus on dog with blurred background' botanicals='trees'breed='Golden Retriever' number=1 age='adult' setting='Sunny park with green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight photography' botanicals='trees'breed='Golden Retriever' number=1 age='adult' setting='sunny park with green grass and trees' accessories=['tennis ball'] mood='playful, joyful' visual_style='vibrant natural daylight action shot' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='natural daylight photography, vibrant colors' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park on a sunny day with green grass and trees' accessories=['tennis ball'] mood='playful, joyful' visual_style='photorealistic, natural lighting' botanicals='lush grass and leafy trees'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='joyful' visual_style='natural outdoor photography, vibrant colors' botanicals='trees and grass in background'breed='Golden Retriever' number=1 age='adult' setting='sunny park with green grass and trees' accessories=['tennis ball'] mood='playful and energetic' visual_style='natural daylight, bright colors, shallow depth of field' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park' accessories=['tennis ball'] mood='joyful' visual_style='sunlit, naturalistic photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='outdoor park' accessories=['tennis ball'] mood='playful' visual_style='photorealistic' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Sunny park with lush green grass and trees' accessories=['ball'] mood='playful' visual_style='bright, natural lighting; vivid colors' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green grass and trees on a sunny day' accessories=['tennis ball'] mood='joyful' visual_style='natural daylight photography with bright, vibrant colors' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green lawn and trees, sunny day' accessories=['tennis ball'] mood='playful' visual_style='natural bright photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with green grass and trees' accessories=['tennis ball'] mood='playful, joyful' visual_style='natural daylight photography, vibrant color' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, natural daylight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with leafy trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Public park with open grassy field and trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='Joyful' visual_style='Photorealistic, natural lighting' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Public park with trees and open grassy field' accessories=['tennis ball'] mood='playful' visual_style='Natural daylight photography with shallow depth of field' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural color photograph' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park during daytime with green grass and trees' accessories=['tennis ball'] mood='playful and joyful' visual_style='naturalistic, bright daylight photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with a grassy field and trees' accessories=['tennis ball'] mood='joyful' visual_style='photorealistic, natural lighting' botanicals='lush green grass and leafy trees in the background'breed='Golden Retriever' number=1 age='adult' setting='Park with grassy field and trees under bright daylight' accessories=['tennis ball'] mood='playful' visual_style='photorealistic daylight photography' botanicals='trees'breed='Golden Retriever' number=1 age='adult' setting='Park with trees and open grassy field' accessories=[] mood='playful' visual_style='Natural daylight, vibrant colors' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with grassy field and trees' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, natural daylight' botanicals='grass and trees'breed='Golden Retriever' number=1 age='adult' setting='park on a sunny day with green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight action photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Sunny park with lush green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='natural daylight photography with vibrant colors' botanicals='trees'breed='Golden Retriever' number=1 age='adult' setting='sunny park with grass and trees' accessories=['tennis ball'] mood='joyful' visual_style='natural daylight action shot' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green grass and trees, sunny day' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, natural daylight' botanicals='grass and trees'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, sunny daylight' botanicals='grass and trees'breed='Golden Retriever' number=1 age='adult' setting='Park with open grassy area and trees on a sunny day' accessories=['tennis ball'] mood='playful' visual_style='natural daylight photography with vivid colors and shallow depth of field' botanicals='trees; grass'breed='Golden Retriever' number=1 age='adult' setting='sunny park with lush green grass and tall trees' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, bright natural light' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park or open grassy area with trees, sunny day' accessories=['tennis ball'] mood='joyful, energetic' visual_style='natural, vibrant daylight, candid action' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='Photorealistic daytime action photograph' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit park with green grass and tall trees' accessories=['tennis ball'] mood='playful, joyful' visual_style='photorealistic, natural daylight, vivid colors' botanicals='grass and trees'breed='Golden Retriever' number=1 age='adult' setting='Sunlit park with grassy field and trees' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, natural daylight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green grass, trees surrounding, sunny day' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, natural light' botanicals='Trees'breed='Golden Retriever' number=1 age='adult' setting='public park' accessories=['tennis ball'] mood='playful' visual_style='natural daylight photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park' accessories=['tennis ball'] mood='playful' visual_style='bright, natural daylight photography' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunlit city park with green grass and trees' accessories=['tennis ball'] mood='playful' visual_style='photorealistic daylight photography' botanicals='trees and grassy lawn'breed='Golden Retriever' number=1 age='adult' setting='public park with grassy field and trees' accessories=['tennis ball'] mood='playful, energetic' visual_style='natural daylight photography with vibrant colors and shallow depth of field' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='sunny park with lush green grass and trees' accessories=['ball'] mood='playful and energetic' visual_style='photorealistic daytime action shot in natural daylight' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green grass, trees, and a sunny backdrop' accessories=['tennis ball'] mood='playful, joyful' visual_style='photorealistic, natural lighting' botanicals='trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park with green grass and trees on a sunny day; a golden retriever jumping with a tennis ball in its mouth' accessories=['tennis ball'] mood='joyful, energetic' visual_style='bright outdoor photography, natural lighting, shallow depth of field' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='Park' accessories=['tennis ball'] mood='playful' visual_style='photorealistic, natural lighting' botanicals='trees and lush grass'breed='Golden Retriever' number=1 age='adult' setting='Sunny park with trees and a green lawn' accessories=['ball'] mood='playful' visual_style='Natural daylight, candid park photography' botanicals='Trees and grass'breed='Golden Retriever' number=1 age='adult' setting='park with green grass, trees, and a walking path' accessories=['tennis ball'] mood='playful and energetic' visual_style='natural daylight, bright and vibrant, action shot with shallow depth of field' botanicals='trees and grass'
+
+Description of the file:
+
+- A golden retriever is jumping toward the camera in a sunlit park, with a bright green tennis ball in its mouth.
+- The dog is centered in the frame, mid-air with paws tucked, ears flopping, and tail up.
+- The background is a grassy area with large trees and blurred figures along a path, creating a shallow depth of field.
+- Lighting is natural daylight, giving warm tones to the fur and a vibrant, outdoorsy mood.
+- Colors: golden fur, green grass, dark tree trunks, and a neon-green ball stand out against the scene.
+- Overall mood: energetic, playful, and cheerful; a dynamic action shot.
+
+Possible uses: stock photo for pets, park life, outdoor activity, or any playful copy about dogs and fetching. Alt text example: “Golden retriever jumping in a sunny park with a bright green tennis ball in its mouth.”
